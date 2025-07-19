@@ -63,9 +63,9 @@ I also explore **machine learning**, working on projects involving classificatio
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/girishthorat)
-- 💻 [GitHub](https://github.com/Girish-Thorat)
-- 📧 Email: girish@example.com
+- 🔗 [LinkedIn](www.linkedin.com/in/girish-thorat-)
+- 💻 [GitHub](https://github.com/GirishT25)
+- 📧 Email: thoratgirish286@gamil.com
 
 ---
 
